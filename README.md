@@ -1,3 +1,1 @@
-# datasciencecoursera
-For online class assignment 
-Hello, my name is Yujia. I like travlling. 
+git push -u origin master
